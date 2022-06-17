@@ -1,4 +1,4 @@
-# Finding-Optimal-Location-of-Vaccination-Centers-using-K-Means-Clustering
+# Optimal-Location-Finder-for-COVID19-Vaccination-Centers
 
 
 This project identifies the optimal location of the vaccination centers in state of Tamil Nadu, India.
