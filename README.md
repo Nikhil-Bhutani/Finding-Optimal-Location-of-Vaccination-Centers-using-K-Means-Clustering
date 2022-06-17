@@ -26,3 +26,5 @@ The optimal predicted locations of the clusters (vaccination centers) were plott
 ```bash
    pip install matplotlib
 ```
+**NOTE :-**
+**Since maps cannot be displayed as an output in the python notebook, sample images are uploaded in the Images directory for reference.**
